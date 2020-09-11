@@ -11,10 +11,13 @@ A Tremolo effect pedal, which modulates the guitar signal's amplitude by a gener
 
 ## Schematic
 *These are only the oscillator and modulation circuits, without the inputs, outputs and supply circuits. Please open the Eagle project for the full circuit.*
+
 Oscillator:
+
 ![Oscillator schematic](https://github.com/felipeb-oliveira/Tremolo-pedal/blob/master/images/oscillator.PNG)
 
 Modulation:
+
 ![Modulation schematic](https://github.com/felipeb-oliveira/Tremolo-pedal/blob/master/images/modulation.PNG)
 
 ## Board
